@@ -1,0 +1,3 @@
+C:/Users/lizzka239/CLionProjects/algoLab2/prF-kefir/cmake-build-debug/CMakeFiles/prF_kefir.dir
+C:/Users/lizzka239/CLionProjects/algoLab2/prF-kefir/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lizzka239/CLionProjects/algoLab2/prF-kefir/cmake-build-debug/CMakeFiles/rebuild_cache.dir

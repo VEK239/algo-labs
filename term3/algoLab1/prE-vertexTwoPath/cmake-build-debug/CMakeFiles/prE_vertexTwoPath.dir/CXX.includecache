@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lizzka239/CLionProjects/algoLab1/prE-vertexTwoPath/main.cpp
+iostream
+-
+utility
+-
+vector
+-
+set
+-
+fstream
+-
+algorithm
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lizzka239/CLionProjects/algoLab1/prA-topSort/main.cpp
+iostream
+-
+vector
+-
+set
+-
+fstream
+-
+algorithm
+-
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lizzka239/CLionProjects/algoLab1/prG-2SAT/main.cpp
+iostream
+-
+vector
+-
+set
+-
+fstream
+-
+algorithm
+-
+hash_map
+-
+map
+-
+string
+-
+

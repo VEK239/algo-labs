@@ -1,0 +1,3 @@
+C:/Users/lizzka239/CLionProjects/algoLab1/prJ_MST/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lizzka239/CLionProjects/algoLab1/prJ_MST/cmake-build-debug/CMakeFiles/prJ_MST.dir
+C:/Users/lizzka239/CLionProjects/algoLab1/prJ_MST/cmake-build-debug/CMakeFiles/rebuild_cache.dir

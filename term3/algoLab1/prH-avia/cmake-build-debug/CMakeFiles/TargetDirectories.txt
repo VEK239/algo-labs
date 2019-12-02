@@ -1,0 +1,3 @@
+C:/Users/lizzka239/CLionProjects/algoLab1/prH-avia/cmake-build-debug/CMakeFiles/prH_avia.dir
+C:/Users/lizzka239/CLionProjects/algoLab1/prH-avia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lizzka239/CLionProjects/algoLab1/prH-avia/cmake-build-debug/CMakeFiles/rebuild_cache.dir

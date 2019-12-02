@@ -1,0 +1,3 @@
+C:/Users/lizzka239/CLionProjects/algoLab1/prD-edgeTwoPath/cmake-build-debug/CMakeFiles/prD_edgeTwoPath.dir
+C:/Users/lizzka239/CLionProjects/algoLab1/prD-edgeTwoPath/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lizzka239/CLionProjects/algoLab1/prD-edgeTwoPath/cmake-build-debug/CMakeFiles/rebuild_cache.dir

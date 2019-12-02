@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lizzka239/CLionProjects/algoLab1/prD-edgeTwoPath/main.cpp
+iostream
+-
+vector
+-
+set
+-
+fstream
+-
+algorithm
+-
+

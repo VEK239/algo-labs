@@ -1,0 +1,3 @@
+C:/Users/lizzka239/CLionProjects/algoLab2/prD-fordBellmanKPath/cmake-build-debug/CMakeFiles/prD_fordBellmanKPath.dir
+C:/Users/lizzka239/CLionProjects/algoLab2/prD-fordBellmanKPath/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lizzka239/CLionProjects/algoLab2/prD-fordBellmanKPath/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/lizzka239/CLionProjects/algoLab2/prA_floyd/cmake-build-debug/CMakeFiles/prA_floyd.dir
+C:/Users/lizzka239/CLionProjects/algoLab2/prA_floyd/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lizzka239/CLionProjects/algoLab2/prA_floyd/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/lizzka239/CLionProjects/algoLab1/prI_mst2/cmake-build-debug/CMakeFiles/prI_mst2.dir
+C:/Users/lizzka239/CLionProjects/algoLab1/prI_mst2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lizzka239/CLionProjects/algoLab1/prI_mst2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
