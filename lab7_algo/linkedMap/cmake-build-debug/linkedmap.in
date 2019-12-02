@@ -1,0 +1,26 @@
+next 5
+prev 10
+put 5 five
+put 6 six
+prev 7
+prev 6
+next 5
+next 6
+put 7 seven
+next 6
+next 5
+delete 6
+prev 7
+next 5
+next 6
+get 6
+delete 5
+get 5
+prev 5
+prev 8
+prev 7
+delete 7
+get 7
+put 1 one
+prev 1
+get 1
